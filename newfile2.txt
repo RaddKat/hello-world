@@ -1,1 +1,2 @@
 This is a second new text file, ‘newfile2.txt’, for testing purposes.
+Now, I have added more content to this text file.
