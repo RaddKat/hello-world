@@ -1,5 +1,4 @@
 # Markdown Test
-# asdfasdf
 
 **I am bold.**
 
