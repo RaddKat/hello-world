@@ -1,7 +1,6 @@
 # Markdown Test
 
 **I am bold.**
-<<<<<<< Updated upstream
 
 _I am italic._
 
@@ -16,8 +15,3 @@ _I am italic._
  1. OL Item 1-1
 2. OL Item 2
  1. OL Item 2-1
-=======
->I am a quote.
->
-*I am italic.*
->>>>>>> Stashed changes
