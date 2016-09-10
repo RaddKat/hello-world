@@ -14,3 +14,6 @@ _I am italic._
  1. OL Item 1-1
 2. OL Item 2
  1. OL Item 2-1
+
+- Dash List 1
+ - Dash List 1-1
