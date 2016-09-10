@@ -1,6 +1,7 @@
 # Markdown Test
 
 **I am bold.**
+
 _I am italic._
 
 * UL 1
